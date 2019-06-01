@@ -5,6 +5,9 @@
     "knex": "^0.17.2",
     "sqlite3": "^4.0.8"
   },
+  "scripts": {
+    "server": "nodemon"
+  },
   "devDependencies": {
     "knex-cleaner": "^1.1.4",
     "nodemon": "^1.19.1"
